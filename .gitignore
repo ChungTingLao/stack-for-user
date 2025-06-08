@@ -6,3 +6,11 @@ port.txt
 examples/
 stack-clients/
 third-party/
+stack-data-uploader/.vscode/
+stack-data-uploader/docker/
+stack-data-uploader/src/
+stack-data-uploader/docker-compose-build.yml
+stack-data-uploader/docker-compose-build-test.yml
+stack-data-uploader/docker-compose-debug.yml
+stack-data-uploader/Dockerfile
+stack-data-uploader/pom.xml
