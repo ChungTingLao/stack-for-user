@@ -4,3 +4,5 @@ WEB-INF/
 log*.xml
 port.txt
 examples/
+stack-clients/
+third-party/
