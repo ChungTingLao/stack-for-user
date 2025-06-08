@@ -14,3 +14,12 @@ stack-data-uploader/docker-compose-build-test.yml
 stack-data-uploader/docker-compose-debug.yml
 stack-data-uploader/Dockerfile
 stack-data-uploader/pom.xml
+stack-manager/.vscode/
+stack-manager/docker/
+stack-manager/src/
+stack-manager/docker-compose-build.yml
+stack-manager/docker-compose-build-test.yml
+stack-manager/docker-compose-debug.yml
+stack-manager/Dockerfile
+stack-manager/pom.xml
+stack-core.code-workspace
