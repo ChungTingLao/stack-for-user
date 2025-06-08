@@ -3,3 +3,4 @@ testing_temp/
 WEB-INF/
 log*.xml
 port.txt
+examples/
